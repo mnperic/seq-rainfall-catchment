@@ -1,26 +1,26 @@
 ﻿dam_name,latitude,longitude,capacity_ml,current_volume,percent_full,current_status
-Atkinson Dam, 27.4137° S , 152.4309° E ,30401.00,30742.00,101.12%,Over Capacity
-Bill Gunn Dam, 27.3740° S , 152.2237° E ,6947.00,6629.00,95.42%,Near Capacity
-Borumba Dam, 26.5069° S , 152.5819° E ,46000.00,48022.00,104.40%,Over Capacity
-Cedar Pocket Dam, 26.2114° S , 152.7924° E ,735.00,769.00,104.63%,Over Capacity
-Cooloolabin Dam, 26.5469° S , 152.8809° E ,8183.00,8250.00,100.82%,Over Capacity
-Enoggera Dam, 27.4451° S , 152.9276° E ,4262.00,4445.00,104.29%,Over Capacity
-Ewen Maddock Dam, 26.7820° S , 152.9927° E ,16587.00,17246.00,103.97%,Over Capacity
-Gold Creek Resevoir, 27.4618° S , 152.8812° E ,810.00,952.00,117.53%,Over Capacity
-Hinze Dam, 28.0497° S , 153.2791° E ,310730.00,338595.00,108.97%,Over Capacity
-Lake Baroon, 26.7066° S , 152.8706° E ,61000.00,61851.00,101.40%,Over Capacity
-Lake Clarendon, 27.5089° S , 152.3492° E ,24276.00,8599.00,35.42%,Low Capacity
-Lake Kurwongbah, 27.1528° S , 152.5770° E ,14192.00,14721.00,103.73%,Over Capacity
-Lake Macdonald, 26.3833° S , 152.9333° E ,8018.00,8354.00,104.19%,Over Capacity
-Lake Manchester, 27.4786° S , 152.7662° E ,26217.00,26485.00,101.02%,Over Capacity
-Tingalpa Resevoir, 27.5363° S , 153.1723° E ,13206.00,14899.00,112.82%,Over Capacity
-Little Nerang Dam, 28.1540° S , 153.2824° E ,6705.00,6793.00,101.31%,Over Capacity
-Maroon Dam, 28.1814° S , 152.6565° E ,44319.00,44457.00,100.31%,Over Capacity
-Moogerah Dam, 28.0455° S , 152.5414° E ,83765.00,88714.00,105.91%,Over Capacity
-Nindooinbah Dam, 27.5944° S , 153.1510° E ,208.00,275.00,132.21%,Over Capacity
-North Pine Dam, 27.2641° S , 152.9368° E ,214302.00,144067.00,67.23%,Low Capacity
-Poona Dam, 26.5956° S , 152.9096° E ,655.00,586.00,89.47%,Near Capacity
-Somerset Dam, 27.1190° S , 152.5511° E ,379849.00,297873.00,78.42%,Near Capacity
-Wappa Dam, 26.5692° S , 152.9199° E ,4694.00,4731.00,100.79%,Over Capacity
-Wivenhoe Dam, 27.3944° S , 152.6087° E ,1165240.00,1120710.00,96.18%,Near Capacity
-Wyaralong Dam, 27.9256° S , 152.8456° E ,102883.00,106317.00,103.34%,Over Capacity
+Atkinson Dam,27.4137,152.4309,30401.00,30742.00,101.12%,Over Capacity
+Bill Gunn Dam,27.374,152.2237,6947.00,6629.00,95.42%,Near Capacity
+Borumba Dam,26.5069,152.5819,46000.00,48022.00,104.40%,Over Capacity
+Cedar Pocket Dam,26.2114,152.7924,735.00,769.00,104.63%,Over Capacity
+Cooloolabin Dam,26.5469,152.8809,8183.00,8250.00,100.82%,Over Capacity
+Enoggera Dam,27.4451,152.9276,4262.00,4445.00,104.29%,Over Capacity
+Ewen Maddock Dam,26.782,152.9927,16587.00,17246.00,103.97%,Over Capacity
+Gold Creek Resevoir,27.4618,152.8812,810.00,952.00,117.53%,Over Capacity
+Hinze Dam,28.0497,153.2791,310730.00,338595.00,108.97%,Over Capacity
+Lake Baroon,26.7066,152.8706,61000.00,61851.00,101.40%,Over Capacity
+Lake Clarendon,27.5089,152.3492,24276.00,8599.00,35.42%,Low Capacity
+Lake Kurwongbah,27.1528,152.577,14192.00,14721.00,103.73%,Over Capacity
+Lake Macdonald,26.3833,152.9333,8018.00,8354.00,104.19%,Over Capacity
+Lake Manchester,27.4786,152.7662,26217.00,26485.00,101.02%,Over Capacity
+Tingalpa Resevoir,27.5363,153.1723,13206.00,14899.00,112.82%,Over Capacity
+Little Nerang Dam,28.154,153.2824,6705.00,6793.00,101.31%,Over Capacity
+Maroon Dam,28.1814,152.6565,44319.00,44457.00,100.31%,Over Capacity
+Moogerah Dam,28.0455,152.5414,83765.00,88714.00,105.91%,Over Capacity
+Nindooinbah Dam,27.5944,153.151,208.00,275.00,132.21%,Over Capacity
+North Pine Dam,27.2641,152.9368,214302.00,144067.00,67.23%,Low Capacity
+Poona Dam,26.5956,152.9096,655.00,586.00,89.47%,Near Capacity
+Somerset Dam,27.119,152.5511,379849.00,297873.00,78.42%,Near Capacity
+Wappa Dam,26.5692,152.9199,4694.00,4731.00,100.79%,Over Capacity
+Wivenhoe Dam,27.3944,152.6087,1165240.00,1120710.00,96.18%,Near Capacity
+Wyaralong Dam,27.9256,152.8456,102883.00,106317.00,103.34%,Over Capacity
