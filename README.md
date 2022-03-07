@@ -1,2 +1,2 @@
-# South-East QLD Dam Levels
-An analysis of South-East QLD dam levels and rainfall over time.
+# South-East QLD Rainfall and Catchment Levels
+An analysis of historical South-East QLD rainfall and catchment levels.
