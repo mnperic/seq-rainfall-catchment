@@ -42,8 +42,8 @@ The above chart shows a clear positive trend in the increase of average monthly 
 
 ### Catchment Levels
 
-For this study, the total SEQ Water Grid was analysed to investigate total capacities, current volumes and operating statuses of SEQ catchments.
-
+For this study, the total SEQ Water Grid was analysed to investigate total capacities, current volumes and operating statuses of SEQ catchments. The figures in the chart below were accurate as of <b>9:00am 7 March 2022.</b>
+<br></br>
 
 <div align="center">
  
@@ -74,11 +74,30 @@ Somerset Dam|	379849.0|	297873.0|	78.42%|	Near Capacity
 Wappa Dam|	4694.0|	4731.0|	100.79%|	Over Capacity
 Wivenhoe Dam|	1165240.0|	1120710.0|	96.18%|	Near Capacity
 Wyaralong Dam|	102883.0|	106317.0|	103.34%|	Over Capacity
-
 </div align>
+<br></br>
 
 Which, when visualised, reveals an unsuprising trend in the current status of a majority of SEQ's catchment areas.
 
 <p align="center">
   <img src="https://github.com/mnperic/seq-rainfall-catchment/blob/main/Images/dam_locations_status.png" alt="catchment_pie"/>
   </p>
+
+The following figure charts total catchment levels during the period of <b>2007–2022</b>, indicating the surge in total rainfall in the region in early 2022. 
+
+<p align="center">
+  <img src="https://github.com/mnperic/seq-rainfall-catchment/blob/main/Images/seq_catchment_levels.png" alt="catchment_line"/>
+  </p> 
+
+## Considerations
+
+1. It must be noted that the upward trend in total rainfall during the 2010–2011 summer period was not the sole variable or cause of the 2011 Brisbane Floods. This significant flooding event was caused via a mixture of heavy rain over the period and the release of excess water from the SEQ Water Grid, as outlined in a 2011 Macquarie University report.
+
+2. There is a potential data anomaly/outlier during the early 1900s and 2000s which may alter findings, albeit insignificantly.
+
+## References
+
+Bureau of Meteorology, 2022, Weather stations, http://www.bom.gov.au/climate/data/stations/<br></br>
+SEQ Water, 2022, Dam Levels, data, https://www.seqwater.com.au/historic-dam-levels<br></br>
+SEQ Water, 2022, Historic Dam Levels, data, https://www.seqwater.com.au/historic-dam-levels<br></br>
+Van den Honert, Robin C., McAneney, J., 2011, <i>The 2011 Brisbane Floods: Causes, Impacts and Implications</i>, https://www.mdpi.com/2073-4441/3/4/1149/htm<br></br>
